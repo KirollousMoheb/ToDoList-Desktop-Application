@@ -1,3 +1,3 @@
 # ToDoList-Desktop-Application
  
-![Screenshot](Screenshot (723).png)
+![Screenshots](Screenshot (723).png)
